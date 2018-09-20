@@ -6,7 +6,7 @@ using System.Text;
 
 namespace System
 {
-    public static class SimpleSignedShortConversions
+    public static class SimpleShortConversions
     {
         public static short AsShort(this object obj)
         {

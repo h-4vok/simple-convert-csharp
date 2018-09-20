@@ -48,8 +48,8 @@
     <Compile Include="SimpleFloatConversions.cs" />
     <Compile Include="SimpleIntegerConversions.cs" />
     <Compile Include="SimpleLongConversions.cs" />
-    <Compile Include="SimpleSignedByteConversions.cs" />
-    <Compile Include="SimpleSignedShortConversions.cs" />
+    <Compile Include="SimpleUnsignedByteConversions.cs" />
+    <Compile Include="SimpleShortConversions.cs" />
     <Compile Include="SimpleStringConversions.cs" />
     <Compile Include="SimpleUnsignedIntegerConversions.cs" />
     <Compile Include="SimpleUnsignedShortConversions.cs" />

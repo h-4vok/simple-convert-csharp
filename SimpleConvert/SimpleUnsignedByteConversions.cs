@@ -6,7 +6,7 @@ using System.Text;
 
 namespace System
 {
-    public static class SimpleSignedByteConversions
+    public static class SimpleUnsignedByteConversions
     {
         public static sbyte AsSByte(this object obj)
         {

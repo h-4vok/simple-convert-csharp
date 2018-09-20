@@ -50,9 +50,23 @@
   <ItemGroup>
     <Compile Include="Test_Boolean.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test_Decimal.cs" />
+    <Compile Include="Test_Double.cs" />
+    <Compile Include="Test_Float.cs" />
+    <Compile Include="Test_Integer.cs" />
+    <Compile Include="Test_Long.cs" />
+    <Compile Include="Test_SignedByte.cs" />
+    <Compile Include="Test_SignedShort.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <Compile Include="Test_Byte.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SimpleConvert\SimpleConvert.csproj">
+      <Project>{3fd4b2a2-8839-4a27-887f-f706d4f3ae20}</Project>
+      <Name>SimpleConvert</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
