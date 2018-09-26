@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SimpleConvert")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("C# library that adds conversion Method Extensions to System.Object. Perform super simple data conversions without being forced to consider all the scenarios. Let the library do it for you.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Christian Guzman")]
 [assembly: AssemblyProduct("SimpleConvert")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyTrademark("https://github.com/cg-h4voK/simple-convert-csharp")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
