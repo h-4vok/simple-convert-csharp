@@ -2,12 +2,12 @@
 <package >
   <metadata>
     <id>$id$</id>
-    <version>1.0.0.0</version>
+    <version>1.0.0.1</version>
     <title>SimpleConvert</title>
     <authors>Christian Guzman</authors>
     <owners>Christian Guzman</owners>
-	  <licenseUrl>https://github.com/cg-h4voK/simple-convert-csharp</licenseUrl>
-    <projectUrl>https://github.com/cg-h4voK/simple-convert-csharp</projectUrl>
+	  <licenseUrl>https://github.com/h-4voK/simple-convert-csharp</licenseUrl>
+    <projectUrl>https://github.com/h-4voK/simple-convert-csharp</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/cg-h4voK/simple-convert-csharp/master/SimpleConvertIcon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>C# library that adds conversion Method Extensions to System.Object. Perform super simple data conversions without being forced to consider all the scenarios. Let the library do it for you. </description>
